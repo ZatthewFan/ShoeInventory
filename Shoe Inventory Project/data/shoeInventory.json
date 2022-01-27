@@ -1,0 +1,53 @@
+{
+    "name": "test",
+    "inventory": [
+        {
+            "main color": "a",
+            "year": -1,
+            "line": "",
+            "shoe size": 1,
+            "colorway": "",
+            "version": -1,
+            "condition": "a",
+            "collab": "",
+            "size": "a",
+            "price": -1,
+            "secondary color": "",
+            "name": "a",
+            "id": 0,
+            "brand": "a"
+        },
+        {
+            "main color": "b",
+            "year": -1,
+            "line": "",
+            "shoe size": 2,
+            "colorway": "",
+            "version": -1,
+            "condition": "b",
+            "collab": "",
+            "size": "b",
+            "price": -1,
+            "secondary color": "",
+            "name": "b",
+            "id": 1,
+            "brand": "bv"
+        },
+        {
+            "main color": "d",
+            "year": -1,
+            "line": "",
+            "shoe size": 3,
+            "colorway": "",
+            "version": -1,
+            "condition": "e",
+            "collab": "",
+            "size": "b",
+            "price": -1,
+            "secondary color": "",
+            "name": "a",
+            "id": 2,
+            "brand": "c"
+        }
+    ]
+}
